@@ -8,10 +8,10 @@
   align-items:center;
   justify-content:center;
   min-height:100vh;
-  background:linear-gradient(to right bottom, #e1b339, #c89622);
+  /* background:linear-gradient(to right bottom, #e1b339, #c89622); */
 }
 .app-wrapper{
-  background-color:#12343b;
+  background-color:dark-cyan;
   min-width:450px;
   min-height:650px;
   padding:30px;
