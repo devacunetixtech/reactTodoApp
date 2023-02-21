@@ -12,7 +12,8 @@
 }
 .app-wrapper{
   background-color:dark-cyan;
-  min-width:450px;
+  /* min-width:450px; */
+  width:85vw;
   min-height:650px;
   padding:30px;
   box-sizing:border-box;
