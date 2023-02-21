@@ -3,7 +3,7 @@
   padding:0;
 }
 .container{
-  width:80vw;
+  width:90vw;
   display:flex;
   align-items:center;
   justify-content:center;
@@ -12,8 +12,7 @@
 }
 .app-wrapper{
   background-color:#12343b;
-  max-width:80vw;
-  /* width:85vw; */
+  max-width:85vw;
   min-height:650px;
   padding:30px;
   box-sizing:border-box;
