@@ -12,7 +12,7 @@
 }
 .app-wrapper{
   background-color:#12343b;
-  max-width:70vw;
+  max-width:66vw;
   min-height:650px;
   padding:30px;
   box-sizing:border-box;
@@ -27,7 +27,7 @@
 }
 .task-input{
   outline:none;
-  width:80vw;
+  width:260px;
   padding:15px;
   margin-right:25px;
   font-size:20px;
@@ -47,7 +47,7 @@
 }
 .list-item{
   display:flex;
-  margin:20px 0;
+  margin:15px 0;
   border:1px solid #ccc;
   border-radius:10px;
   padding:10px;
