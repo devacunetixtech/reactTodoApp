@@ -3,7 +3,7 @@
   padding:0;
 }
 .container{
-  width:100;
+  width:80vw;
   display:flex;
   align-items:center;
   justify-content:center;
@@ -12,8 +12,8 @@
 }
 .app-wrapper{
   background-color:dark-cyan;
-  /* min-width:450px; */
-  width:85vw;
+  max-width:80vw;
+  /* width:85vw; */
   min-height:650px;
   padding:30px;
   box-sizing:border-box;
